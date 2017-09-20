@@ -1,0 +1,22 @@
+new
+adjacent 0 0 0
+~adjacent 0 1
+adjacent! -1 0
+adjacent! 0 -1
+adjacent! -1 -1
+adjacent! 50 0
+adjacent! 0 50
+adjacent! 50 50
+adjacent! -1 50
+adjacent! 50 -1
+insert 0 1 1
+adjacent 0 1 1
+insert 0 1 2
+adjacent 0 1 2
+insert 0 1 3
+adjacent 0 1 3
+insert 1 0 0.5
+adjacent 1 0 0.5
+adjacent 0 1 0.5
+delete
+summary

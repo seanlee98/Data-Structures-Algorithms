@@ -1,0 +1,24 @@
+new
+push 1
+top 1
+npl 0
+push 2
+top 1
+npl 0
+push 3
+top 1
+npl 1
+push 0
+top 0
+npl 0
+push 1
+top 0
+npl 1
+push 2
+top 0
+npl 1
+push 3
+top 0
+npl 2
+delete
+summary

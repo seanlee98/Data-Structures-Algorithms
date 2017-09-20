@@ -1,0 +1,31 @@
+new
+insert! 0 1 -1
+insert! 0 1 0
+insert! -1 0 1
+insert! 0 -1 1
+insert! -1 -1 1
+insert! 50 0 1
+insert! 0 50 1
+insert! 50 50 1
+insert! -1 50 1
+insert! 50 -1 1
+insert! 1 1 1
+degree 0 0
+degree 1 0
+edge_count 0
+~adjacent 0 1
+~adjacent 1 0
+insert 0 1 1
+degree 0 1
+degree 1 1
+edge_count 1
+adjacent 0 1 1
+adjacent 1 0 1
+insert 1 0 2
+degree 0 1
+degree 1 1
+edge_count 1
+adjacent 0 1 2
+adjacent 1 0 2
+delete
+summary

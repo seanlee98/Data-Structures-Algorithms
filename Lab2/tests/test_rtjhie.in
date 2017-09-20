@@ -1,0 +1,26 @@
+new
+capacity 32
+insert 50
+bin 18 50
+insert 82
+bin 21 82
+insert 114
+bin 24 114
+insert 18
+bin 19 18
+insert 19
+bin 20 19
+insert 21
+bin 22 21
+size 6
+remove 21 1
+remove 19 1
+remove 18 1
+remove 114 1
+remove 82 1
+remove 50 1
+empty 1
+member 114 0
+delete
+summary
+exit

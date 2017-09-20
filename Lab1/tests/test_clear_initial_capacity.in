@@ -1,0 +1,10 @@
+new
+push 1
+push 2
+push 3
+clear
+size 0
+empty 1
+capacity 10
+delete
+summary

@@ -1,0 +1,22 @@
+new
+npl -1
+push 1
+npl 0
+push 2
+npl 0
+push 3
+npl 1
+push 4
+npl 1
+push 5
+npl 1
+push 0
+npl 0
+push 1
+npl 1
+push 2
+npl 1
+push 3
+npl 2
+delete
+summary
